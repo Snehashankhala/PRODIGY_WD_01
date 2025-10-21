@@ -7,7 +7,7 @@ It demonstrates a **responsive landing page** created using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo  
 🔗 [View the Project]  
-
+"https://github.com/Snehashankhala/PRODIGY_WD_01"
 
 
 ---
