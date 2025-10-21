@@ -7,7 +7,8 @@ It demonstrates a **responsive landing page** created using **HTML**, **CSS**, a
 
 ## 🌐 Live Demo  
 🔗 [View the Project]  
-*(Replace this link with your actual GitHub Pages or Netlify URL after deployment)*
+
+
 
 ---
 
@@ -26,5 +27,6 @@ It demonstrates a **responsive landing page** created using **HTML**, **CSS**, a
 ✅ Hover animations for menu and buttons  
 
 ---
-
+#image
+"<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c1ccb77-4340-401c-b063-f2c7af01dc01" />"
 
